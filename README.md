@@ -16,29 +16,34 @@ VMware vCenter 7.0 Standard
 104HH-D4343-07879-MV08K-2D2H2
 410NA-DW28H-H74K1-ZK882-948L4
 406DK-FWHEH-075K8-XAC06-0JH08
-www.hellodigi.ir
-vSphere Enterprise Plus:
+
+# www.hellodigi.ir
+# vSphere Enterprise Plus:
 HG00K-03H8K-48929-8K1NP-3LUJ4
 4F40H-4ML1K-M89U0-0C2N4-1AKL4
-vCenter Standard :
+# vCenter Standard :
 4F282-0MLD2-M8869-T89G0-CF240
 0F41K-0MJ4H-M88U1-0C3N0-0A214
-VMware vSphere 8.x KeygenvSphere Enterprise Plus:
+
+# VMware vSphere 8.x KeygenvSphere Enterprise Plus:
 HG00K-03H8K-48929-8K1NP-3LUJ4
 4F40H-4ML1K-M89U0-0C2N4-1AKL4
-vSphere 8 Enterprise Plus:
+
+# vSphere 8 Enterprise Plus:
 HG00K-03H8K-48929-8K1NP-3LUJ4
-vSphere Enterprise Plus:
+# vSphere Enterprise Plus:
 HG00K-03H8K-48929-8K1NP-3LUJ4
-vSphere 8 Enterprise
+
+# vSphere 8 Enterprise
 4F40H-4ML1K-M89U0-0C2N4-1AKL4
 4F40H-4ML1K-M89U0-0C2N4-1AKL4
-vCenter Standard:
+# vCenter Standard:
 4F282-0MLD2-M8869-T89G0-CF240
 0F41K-0MJ4H-M88U1-0C3N0-0A214
-VCSA 8
-0F41K-0MJ4H-M88U1-0C3N0-0A214
-vCenter 8 Standard:
+
+# VCSA 8
+0F41K-0MJ4H-M88U1-0C3N0-0A214 (OK)
+# vCenter 8 Standard:
 4F282-0MLD2-M8869-T89G0-CF240
-vCenter Standard:
+# vCenter Standard:
 4F282-0MLD2-M8869-T89G0-CF240
